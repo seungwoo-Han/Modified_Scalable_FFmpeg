@@ -49,6 +49,6 @@ avoided because they are not part of our review process and will be ignored.
 
 Fast-Forward, Rewind Function is added.
 Modified Library List is below.
-  *`libavformat/rtsp.c`
-  *`libavformat/rtsp.h`
-  *`libavformat/rtspdec.c`
+  `libavformat/rtsp.c`
+  `libavformat/rtsp.h`
+  `libavformat/rtspdec.c`
